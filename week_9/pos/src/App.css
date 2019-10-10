@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #09d3ac;
+}
+
+.logo-img {
+    height: 50px;
+    width: 50px;
+}
+
+.table-size {
+    margin-top: 5%;
+}
+
+.crousel-img {
+    height: 600px;
+}
+
+.card-img {
+    height: 200px;
+}
+
+.bg-image {
+    background-image: url("https://images.unsplash.com/photo-1527224538127-2104bb71c51b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    height: 600px;
+    background-size: 100% 100%;
+}
